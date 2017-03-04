@@ -27,7 +27,9 @@
 
 <body class="homepage">
 
-<?php include "header.php";
+<?php 
+    $page = "home";
+    include "header.php";
 ?>
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
@@ -38,7 +40,7 @@
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(images/perfectsmile/1.jpeg)">
+                <div class="item active" style="background-image: url(assets/slider/psf-slider3.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -58,7 +60,7 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(images/perfectsmile/2.jpeg)">
+                <div class="item" style="background-image: url(assets/slider/psf-slider2.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -73,7 +75,7 @@
                     </div>
                 </div><!--/.item-->
 
-                <div class="item" style="background-image: url(images/perfectsmile/3.jpeg)">
+                <div class="item" style="background-image: url(assets/slider/psf-slider1.jpg)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -146,13 +148,8 @@
         <div class="container">
             <div class="center wow fadeInDown">
                 <h2>Why Choose Us</h2>
-                <p class="lead" style="text-align: left;">We’re glad you hand your dental health concerns to our skilled hands. We’ll make sure to deliver the best possible healthcare to all our patients! Of course, we always complement our main services with a customer service oriented approach.<br>
-
-                We sincerely believe that visiting a dentist shouldn’t be a frightening or stressful experience! We provide an equally comfortable experience of relaxation for all our young and adult customers! Also we implement a lot of pain management and anesthesia options.Everything we do is aimed at making you feel comfortable, while we take care of your oral healthcare!<br>
-
-                It includes both local anesthesia for mouth-numbing as well as a sedative anesthesia. Altogether, this helps relief any pain which might occur in the process of treatment. All in all, we’ve got it all under control at our dental health clinic.<br>
-
-                We invite you to explore the information about our dental office on our website!<br>
+                <p class="lead" style="text-align: left;">Veering from the norm of painful, tedious dental procedures, PERFECT SMILE introduces you to a world of tech-savvy, new-age dentistry. The pioneers of Futuristic Dentistry,PERFECT SMILE will give you a new reason to smile every day! We believe in giving our patients a relaxing, informative and stress-free dental experience. Our Dental Clinic located in the center of Faridabad, comprises of best dental equipment and latest technology, ensuring that you get high quality dental care in a comfortable and friendly environment.<br>
+                Changing the very face of the dental scene, we at PERFECT SMILE look forward to giving you an enhanced and healthier dental well-being. Initially founded by Dr. Ashish Vermaand Dr. Dimple Vermain 2008, we have grown in leaps and bounds. As it is centrally located so it’s approachable from Gurgaon, Noida and Delhi. Backed with cutting-edge technology and a highly experienced team, we’re committed to providing you with a soothing and transformative experience - whether it’s cosmetic, implant or general dentistry. Our highly accomplished team has been a part of our practice for years and work with you to develop a personalized dental treatment plan that not only yields amazingly beautiful results, but keeps your mouth healthy for a lifetime. With us, discover how easy it is to achieve your dream smile.<br>
 
                 Once our customer, you will be leaving our dental clinic with a bright, wide smile!
 

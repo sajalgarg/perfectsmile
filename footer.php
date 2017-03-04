@@ -67,7 +67,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2016 <a target="_blank" href="http://theprojectengine.com/">The Project Engine</a>. All Rights Reserved.
+                    &copy; 2017 <a target="_blank" href="http://webspring.in/">WebSpring</a>. All Rights Reserved.
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">

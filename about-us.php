@@ -28,14 +28,25 @@
 
 <body>
 
-<?php include "header.php";
+<?php
+	$page = "about-us";
+	include "header.php";
 ?>
     <section id="about-us">
         <div class="container">
 			<div class="center wow fadeInDown">
 				<h2>About Us</h2>
-				<p class="lead">All procedures in the clinic are performed on the basis of modern technology and advanced materials. New tools allow you to minimize the use of traditional drills and other equipment, which previously could cause your fear. We use only the best novelties and try to make a visit of the dentist comfortable and painless for each patient. The professional level of our doctors is confirmed by diplomas and certificates. 
-Professionalism of our doctors let them accurately diagnose diseases of the teeth and provide the most effective treatment. So you can trust them your health.  With our help you get not only high-quality dental treatment, but graduate and professional advice. Each patient has a possibility of semi-annual free prophylactic examination. We don't do advertising, our work speaks for itself.</div>
+				<p class="lead">At Perfect Smile Dental Clinic, we offer an extensive range of services to our clients using the latest technology available in the dental industry today. It is our priority to create a warm, comfortable and welcoming environment for our patients, and deliver minimally invasive treatment with knowledge and care.
+				
+				The team at Perfect Smile Dental Clinic includes principal dentist and owner Dr Ashish Verma, together with dentist Dr Dimple Verma and a team of hygienists and nurses.
+				
+				Perfect Smile Dental Clinic is located in a historic Victorian terrace at 235 Beaufort St, Northbridge. We have been at this location for the past 30 years.
+				
+				We have the luxury of two lounge areas for our patients to choose from. One offering foxtel and the latest magazines, the other, offering a more tranquil environment targeted to business people and privacy.
+
+
+				All procedures in the clinic are performed on the basis of modern technology and advanced materials. New tools allow you to minimize the use of traditional drills and other equipment, which previously could cause your fear. We use only the best novelties and try to make a visit of the dentist comfortable and painless for each patient. The professional level of our doctors is confirmed by diplomas and certificates. 
+				Professionalism of our doctors let them accurately diagnose diseases of the teeth and provide the most effective treatment. So you can trust them your health.  With our help you get not only high-quality dental treatment, but graduate and professional advice. We don't do advertising, our work speaks for itself.</div>
 			
 			<!-- about us slider -->
 			<div id="about-slider">
@@ -49,13 +60,13 @@ Professionalism of our doctors let them accurately diagnose diseases of the teet
 
 					<div class="carousel-inner">
 						<div class="item active">
-							<img src="images/slider_one.jpg" class="img-responsive" alt=""> 
+							<img src="assets/about-us/team/psf-team3.jpg" class="img-responsive" alt=""> 
 					   </div>
 					   <div class="item">
-							<img src="images/slider_one.jpg" class="img-responsive" alt=""> 
+							<img src="assets/about-us/team/psf-team2.jpg" class="img-responsive" alt=""> 
 					   </div> 
 					   <div class="item">
-							<img src="images/slider_one.jpg" class="img-responsive" alt=""> 
+							<img src="assets/about-us/team/psf-team1.jpg" class="img-responsive" alt=""> 
 					   </div> 
 					</div>
 					
@@ -132,7 +143,7 @@ Professionalism of our doctors let them accurately diagnose diseases of the teet
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man1.jpg" alt=""></a>
+									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual14.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Ashish Verma</h4>
@@ -159,7 +170,7 @@ Professionalism of our doctors let them accurately diagnose diseases of the teet
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man2.jpg" alt=""></a>
+									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual5.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Dimple Verma</h4>
@@ -198,12 +209,12 @@ Professionalism of our doctors let them accurately diagnose diseases of the teet
 					</div>
 				</div> <!--skill_border-->       
 
-				<!--<div class="row clearfix">   
+				<div class="row clearfix">   
 					<div class="col-md-4 col-sm-6 col-md-offset-2">	
 						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man3.jpg" alt=""></a>
+									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual3.jpg" alt=""></a>
 								</div>
 
 								<div class="media-body">
@@ -229,7 +240,7 @@ Professionalism of our doctors let them accurately diagnose diseases of the teet
 						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man4.jpg" alt=""></a>
+									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual7.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Jhon Doe</h4>
@@ -250,7 +261,80 @@ Professionalism of our doctors let them accurately diagnose diseases of the teet
 							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 						</div>
 					</div>
-				</div>	--><!--/.row-->
+				</div>	<!--/.row-->
+
+				<div class="row team-bar">
+					<div class="first-one-arrow hidden-xs">
+						<hr>
+					</div>
+					<div class="first-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="second-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+					<div class="third-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="fourth-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+				</div> <!--skill_border-->       
+
+				<div class="row clearfix">
+					<div class="col-md-4 col-sm-6">	
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual10.jpg" alt=""></a>
+								</div>
+								<div class="media-body">
+									<h4>Ashish Verma</h4>
+									<h5>Dentist</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">Professor</a></li>
+										<li class="btn"><a href="#">MDS</a></li>
+										<!--<li class="btn"><a href="#">Ux</a></li>
+										<li class="btn"><a href="#">Photoshop</a></li>-->
+									</ul>
+									
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>After founding his own clinic in 2010 he brought all his experience here. Most of all he loves to see you walk out with a bright wide smile!</div>
+					</div><!--/.col-lg-4 -->
+					
+					
+					<div class="col-md-4 col-sm-6 col-md-offset-2">	
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="media">
+								<div class="pull-left">
+									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual18.jpg" alt=""></a>
+								</div>
+								<div class="media-body">
+									<h4>Dimple Verma</h4>
+									<h5>Dentist</h5>
+									<ul class="tag clearfix">
+										<li class="btn"><a href="#">Professor</a></li>
+										<li class="btn"><a href="#">MDS</a></li>
+										<!--<li class="btn"><a href="#">Ux</a></li>
+										<li class="btn"><a href="#">Photoshop</a></li>-->
+									</ul>
+									<ul class="social_icons">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									</ul>
+								</div>
+							</div><!--/.media -->
+							<p>She truly represents all the care that our dental office is surrounded with and our patients feel that every time.</div>
+					</div><!--/.col-lg-4 -->					
+				</div> <!--/.row -->
+
 			</div><!--section-->
 		</div><!--/.container-->
     </section><!--/about-us-->
