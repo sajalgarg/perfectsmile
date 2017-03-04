@@ -35,12 +35,12 @@
                 
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.php">Home</a></li>
-                        <li><a href="about-us.php">About Us</a></li>
-                        <li><a href="services.php">Services</a></li>
-                        <!-- <li><a href="portfolio.html">Gallery</a></li> -->
+                        <li class="<?php echo ($page == "home" ? "active" : "")?>"><a href="index.php">Home</a></li>
+                        <li class="<?php echo ($page == "about-us" ? "active" : "")?>"><a href="about-us.php">About Us</a></li>
+                        <li class="<?php echo ($page == "services" ? "active" : "")?>"><a href="services.php">Services</a></li>
+                        <li class="<?php echo ($page == "portfolio" ? "active" : "")?>"><a href="portfolio.php">Gallery</a></li>
                         <!-- <li><a href="blog.html">Blog</a></li>  -->
-                        <li><a href="contact-us.php">Contact</a></li>                        
+                        <li class="<?php echo ($page == "contact-us" ? "active" : "")?>"><a href="contact-us.php">Contact</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->

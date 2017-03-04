@@ -28,7 +28,9 @@
 
 <body>
 
-<?php include "header.php";
+<?php 
+    $page = "contact-us";
+    include "header.php";
 ?>
     <section id="contact-info">
         <div class="center">                
