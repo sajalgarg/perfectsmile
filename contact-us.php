@@ -33,23 +33,20 @@
     include "header.php";
 ?>
     <section id="contact-info">
-        <div class="center">                
+     <div class="center">                
             <h2>How to Reach Us?</h2>
             <p class="lead"></p>
         </div>
-        <a href="https://www.google.co.in/maps/place/Sector+21C+Market/@28.4307752,77.297062,18.5z/data=!4m5!3m4!1s0x0:0x4a9c0c6fb74d61c3!8m2!3d28.430902!4d77.2965324"><div class="gmap-area"  style="border:solid;border-color:black">
             <div class="container">
-                <div class="row">
-                    <div class="col-sm-6 text-center">
-                     <!--   <div class="gmap">
-                            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://goo.gl/maps/gfW5VcFRLzn"></iframe>
-                        </div>-->
-                    </div>
+                
+				
 
-                    <div class="col-sm-6 map-content">
-                        <ul class="row">
-                            <li class="col-sm-6">
-                                <address>
+<iframe frameborder="0" height="500px" allowfullscreen="" src="https://www.google.com/maps/embed/v1/place?q=Perfect%20Smile%20Clinic%20Sector-21%20%2CFaridaad%2CHaryana&amp;key=AIzaSyBQFjCNF8dpHTKY7vqrsFG_Pqfsc4IFmI4" style="border:0" class="col-md-12"></iframe>
+<!--<iframe width="600" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Perfect%20Smile%20Clinic%20Sector-21%20%2CFaridaad%2CHaryana&key=AIzaSyBQFjCNF8dpHTKY7vqrsFG_Pqfsc4IFmI4" allowfullscreen></iframe>-->
+
+
+	<!--<div class="row center">
+	                      <address>
                                     <h2>Clinic Address</h2>
                                     <p>Main Huda Market ,Sector 21-C ,<br>Faridabad ,Haryana 
                                     </p>
@@ -57,25 +54,32 @@
                                     <p>Email:drashish_verma@rediffmail.com</p>
                                 </address>
 
-                               <!-- <address>
-                                    <h5>Zonal Office</h5>
-                                    <p>1537 Flint Street <br>
-                                    Tumon, MP 96911</p>                                
-                                    <p>Phone:670-898-2847 <br>
-                                    Email Address:info@domain.com</p>
-                                </address>-->
-                            </li>
-
-
-                            
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div></a>
+	
+	</div>-->			
+     </div>
+        
     </section>  <!--/gmap_area -->
 
-    <section id="contact-page">
+	<section id="address">
+	
+	 <address class="center">
+                                    <h2>Clinic Address</h2>
+                                    <p>Main Huda Market ,Sector 21-C ,<br>Faridabad ,Haryana 
+                                    </p>
+                                    <p>Phone:9990096267 </p>
+                                    <p>Email:drashish_verma@rediffmail.com</p>
+                                </address>
+	<div class="get-started center wow fadeInDown animated container" style="visibility: visible; animation-name: fadeInDown;">
+                <h2>Practo link</h2>
+                <p class="lead">..................................................................................... <br> .....................................................................</p>
+                <div class="request">
+                    <h4><a href="#">Link</a></h4>
+                </div>
+    
+	</div>
+	</section>
+	
+    <!--<section id="contact-page">
         <div class="container">
             <div class="center">        
                 <h2>Drop Your Message</h2>
@@ -116,9 +120,9 @@
                         </div>
                     </div>
                 </form> 
-            </div><!--/.row-->
-        </div><!--/.container-->
-    </section><!--/#contact-page-->
+            </div>
+        </div>
+    </section>-->
 
 <?php include "footer.php";
 ?>
