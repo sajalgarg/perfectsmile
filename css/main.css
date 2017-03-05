@@ -12,6 +12,12 @@ body {
   line-height: 22px;
 }
 
+/*Added by sajal*/
+body{
+  background-color: #fafafa;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+}
+
 h1,
 h2,
 h3,
@@ -2524,7 +2530,6 @@ shortcodes page css
   display: inline-block;
   margin-left: 15px;
 }
-
 
 
 
