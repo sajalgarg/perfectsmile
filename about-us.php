@@ -60,13 +60,13 @@
 
 					<div class="carousel-inner">
 						<div class="item active">
-							<img src="assets/about-us/team/psf-team3.jpg" class="img-responsive" alt=""> 
+							<img src="assets/about-us/team/psf-team3.png" class="img-responsive" alt=""> 
 					   </div>
 					   <div class="item">
-							<img src="assets/about-us/team/psf-team2.jpg" class="img-responsive" alt=""> 
+							<img src="assets/about-us/team/psf-team2.png" class="img-responsive" alt=""> 
 					   </div> 
 					   <div class="item">
-							<img src="assets/about-us/team/psf-team1.jpg" class="img-responsive" alt=""> 
+							<img src="assets/about-us/team/psf-team1.png" class="img-responsive" alt=""> 
 					   </div> 
 					</div>
 					
@@ -74,7 +74,7 @@
 						<i class="fa fa-angle-left"></i> 
 					</a>
 					
-					<a class=" right carousel-control hidden-xs"href="#carousel-slider" data-slide="next">
+					<a class=" right carousel-control hidden-xs" href="#carousel-slider" data-slide="next">
 						<i class="fa fa-angle-right"></i> 
 					</a>
 				</div> <!--/#carousel-slider-->
@@ -143,7 +143,7 @@
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual14.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/psf-individual14.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Ashish Verma</h4>
@@ -170,7 +170,7 @@
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual5.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/psf-individual5.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Dimple Verma</h4>
@@ -214,12 +214,12 @@
 						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual3.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/psf-individual3.jpg" alt=""></a>
 								</div>
 
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>Name</h4>
+									<h5>Dentist</h5>
 									<ul class="tag clearfix">
 										<li class="btn"><a href="#">Web</a></li>
 										<li class="btn"><a href="#">Ui</a></li>
@@ -233,18 +233,18 @@
 									</ul>
 								</div>
 							</div>
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+							<p>Description</p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-md-offset-2">
 						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual7.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/psf-individual7.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>Name</h4>
+									<h5>Dentist</h5>
 									<ul class="tag clearfix">
 										<li class="btn"><a href="#">Web</a></li>
 										<li class="btn"><a href="#">Ui</a></li>
@@ -258,7 +258,7 @@
 									</ul>
 								</div>
 							</div>
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+							<p>Description</p>
 						</div>
 					</div>
 				</div>	<!--/.row-->
@@ -286,10 +286,10 @@
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual10.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/psf-individual10.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Ashish Verma</h4>
+									<h4>Name</h4>
 									<h5>Dentist</h5>
 									<ul class="tag clearfix">
 										<li class="btn"><a href="#">Professor</a></li>
@@ -305,7 +305,7 @@
 									</ul>
 								</div>
 							</div><!--/.media -->
-							<p>After founding his own clinic in 2010 he brought all his experience here. Most of all he loves to see you walk out with a bright wide smile!</div>
+							<p>Description</div>
 					</div><!--/.col-lg-4 -->
 					
 					
@@ -313,10 +313,10 @@
 						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="assets/about-us/individual/psf-individual18.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/psf-individual18.jpg" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Dimple Verma</h4>
+									<h4>Name</h4>
 									<h5>Dentist</h5>
 									<ul class="tag clearfix">
 										<li class="btn"><a href="#">Professor</a></li>
@@ -331,7 +331,7 @@
 									</ul>
 								</div>
 							</div><!--/.media -->
-							<p>She truly represents all the care that our dental office is surrounded with and our patients feel that every time.</div>
+							<p>Description</div>
 					</div><!--/.col-lg-4 -->					
 				</div> <!--/.row -->
 

@@ -186,48 +186,6 @@
     </section><!--/#recent-works-->
 
 
-    <section id="content">
-        <div class="container">
-            <div class="row wow fadeInDown">
-
-                <!-- <div class="col-xs-12 col-sm-4 wow fadeInDown"> -->
-                    <div class="center testimonial">
-                        <h2>Testimonials</h2>
-                         <div class="media testimonial-inner col-md-4">
-<!--                             <div class="pull-left">
-                                <img class="img-responsive img-circle" src="images/testimonials1.png">
-                            </div>
- -->                            <div class="media-body">
-                                <p>A big thank to the clinic. Made a prosthesis of 3 teeth and was very pleased with the result.  Recommend to everyone! Good afternoon! Excellent clinic, attentive staff, like it very much! Our whole family is treating here, everyone is happy! A big thank to clinic for the provided services!</p>
-                                <span><strong>-Sachin Bansal/</strong>Businessman</span>
-                            </div>
-                         </div>
-
-                         <div class="media testimonial-inner col-md-4">
-<!--                             <div class="pull-left">
-                                <img class="img-responsive img-circle" src="images/testimonials1.png">
-                            </div>
- -->                            <div class="media-body">
-                                <p>Really love this clinic. Not going to change it to any other, despite the fact that I live now in another city, are treating me and my mom. Can safely recommend to everybody. For me, the best clinic with very high level of service and always welcoming atmosphere. Special thanks to the Director of the clinic!</p>
-                                <span><strong>-Sonam Sharma/</strong> Housewife</span>
-                            </div>
-                         </div>
-
-                         <div class="media testimonial-inner col-md-4">
-<!--                             <div class="pull-left">
-                                <img class="img-responsive img-circle" src="images/testimonials1.png">
-                            </div>
- -->                            <div class="media-body">
-                                <p>A wonderful clinic. A great combination of attitudes towards people, professionalism and prices. People just love their job and do it well. Good afternoon! Would like to thank the Director of the clinic for responsiveness and understanding. Thank you very much, I wish prosperity for your clinic!</p>
-                                <span><strong>-Harish/</strong> Businessman</span>
-                            </div>
-                         </div>
-                    </div>
-                </div>
-
-            </div><!--/.row-->
-        </div><!--/.container-->
-    </section><!--/#content-->
 
     <section id="partner">
         <div class="container">
@@ -248,23 +206,6 @@
         </div><!--/.container-->
     </section><!--/#partner-->
 
-    <section id="conatcat-info">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-8">
-                    <div class="media contact-info wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="pull-left">
-                            <i class="fa fa-phone"></i>
-                        </div>
-                        <div class="media-body">
-                            <h2>Have a question ?</h2>
-                            <p>Feel free to contact us at 9990096267</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div><!--/.container-->    
-    </section><!--/#conatcat-info-->
 
 
 <?php include "footer.php";
