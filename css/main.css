@@ -18,6 +18,13 @@ body{
 background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 
+/*Added by mukul*/
+body {
+    text-align: justify;
+    text-justify: inter-word;
+	 text-transform: capitalize;
+}
+
 h1,
 h2,
 h3,

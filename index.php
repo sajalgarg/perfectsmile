@@ -65,9 +65,12 @@
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1">We strive to provide a relaxed atmosphere</h1>
+                                    <h1 class="animation animated-item-1">Center of dental excellence</h1>
+                                    <h2 class="animation animated-item-2">with a relaxed atmoshphere.</h2>
+                                    <!--<h1 class="animation animated-item-1">We strive to provide a relaxed atmosphere</h1>
                                     <h2 class="animation animated-item-2">If you would like to improve, enhance or protect your smile, please do not hesitate to contact us today</h2>
-                                    <i class="btn-slide animation animated-item-3 fa fa-phone"> 9990096267</i>
+                                    -->
+									<i class="btn-slide animation animated-item-3 fa fa-phone"> 0129-4026267</i>
                                 </div>
                             </div>
 
@@ -80,9 +83,9 @@
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                    <h1 class="animation animated-item-1" style="color: black;">"We'll do our best to deliver the best possible healthcare and customer service to you!"</h1>
-                                    <h2 class="animation animated-item-2" style="color: black;">-Dr. Ashish Verma</h2>
-                                    <h2 class="animation animated-item-2" style="color: black;">Head of Perfect Smile Clinic</h2>
+                                    <h1 class="animation animated-item-1" >"Experience team that promises to deliver best dental care!"</h1>
+                                    <!--<h2 class="animation animated-item-2" style="color: black;">-Dr. Ashish Verma</h2>
+                                    <h2 class="animation animated-item-2" style="color: black;">Head of Perfect Smile Clinic</h2>-->
                                 </div>
                             </div>
                         </div>
@@ -106,38 +109,41 @@
             </div> -->
 
             <div class="row">
-                <div class="features" style="text-align: center;">
-                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
-                            <img src="images/service/1.png">
-                            <h2>PACKAGE SERVICES</h2>
-                            <h3>Every man sooner or later, confronts with the problem of damage of teeth and dentition.</h3>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
-                            <img src="images/service/2.png">
-                            <h2>ORAL SURGERY</h2>
-                            <h3>Various internal diseases and the negative impact of external factors strongly affect.</h3>
-                        </div>
-                    </div><!--/.col-md-4-->
-
-                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-                        <div class="feature-wrap">
-                            <img src="images/service/3.png">
-                            <h2>IMPLANTOLOGY</h2>
-                            <h3>Children's dentist in our clinic creates optimal conditions for young patients, entertains.</h3>
-                        </div>
-                    </div><!--/.col-md-4-->
                 
+                 <div class="features" style="text-align: center;">
                     <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <img src="images/service/4.png">
                             <h2>COSMETIC DENTISTRY</h2>
-                            <h3>The orthodontist will help you rectify the defects of the bite.</h3>
+                            <h3>Smile is the prettiest thing you can wear.</h3>
                         </div>
                     </div><!--/.col-md-4-->
+					
+					<div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img src="images/service/3.png">
+                            <h2>IMPLANTOLOGY</h2>
+                            <h3>A treatment that will last a life time.</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+					
+                      
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img src="images/service/2.png">
+                            <h2>LASER DENTISTRY</h2>
+                            <h3>Making you smile with latest painless technology.</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img src="images/service/1.png">
+                            <h2>KIDS DENTISTRY</h2>
+                            <h3>Giving Your Child A Healthy Smile.</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
 
                 </div><!--/.services-->
             </div><!--/.row-->    
@@ -148,10 +154,10 @@
         <div class="container">
             <div class="center wow fadeInDown">
                 <h2>Why Choose Us</h2>
-                <p class="lead" style="text-align: left;">Veering from the norm of painful, tedious dental procedures, PERFECT SMILE introduces you to a world of tech-savvy, new-age dentistry. The pioneers of Futuristic Dentistry,PERFECT SMILE will give you a new reason to smile every day! We believe in giving our patients a relaxing, informative and stress-free dental experience. Our Dental Clinic located in the center of Faridabad, comprises of best dental equipment and latest technology, ensuring that you get high quality dental care in a comfortable and friendly environment.<br>
-                Changing the very face of the dental scene, we at PERFECT SMILE look forward to giving you an enhanced and healthier dental well-being. Initially founded by Dr. Ashish Vermaand Dr. Dimple Vermain 2008, we have grown in leaps and bounds. As it is centrally located so it’s approachable from Gurgaon, Noida and Delhi. Backed with cutting-edge technology and a highly experienced team, we’re committed to providing you with a soothing and transformative experience - whether it’s cosmetic, implant or general dentistry. Our highly accomplished team has been a part of our practice for years and work with you to develop a personalized dental treatment plan that not only yields amazingly beautiful results, but keeps your mouth healthy for a lifetime. With us, discover how easy it is to achieve your dream smile.<br>
+                <p class="lead" style="text-align: justify;">Veering from the norm of painful, tedious dental procedures, PERFECT SMILE introduces you to a world of tech-savvy, new-age dentistry. The pioneers of Futuristic Dentistry, PERFECT SMILE gives you a new reason to smile every day! We believe in giving our patients a relaxing, informative and stress-free dental experience. Our Dental Clinic located in the center of Faridabad, being easily approachable from Gurgaon, Noida and Delhi. The clinic is equipped with best dental equipment and latest technology, ensuring that you get high quality dental care in a comfortable and friendly environment. Changing the very face of the dental scene, we at PERFECT SMILE look forward to giving you an enhanced and healthier dental well-being. 
+				<br>Initially founded by Dr Ashish Verma and Dr Dimple Verma in 2008, we have grown in leaps and bounds. Backed with cutting-edge technology and a highly experienced team, we’re committed to providing you with a soothing and transformative experience - whether it’s cosmetic, implant, LASER or general dentistry. Our highly accomplished team has been a part of our practice for years and work with you to develop a personalized dental treatment plan that not only yields amazingly beautiful results, but keeps your mouth healthy for a lifetime. With us, discover how easy it is to achieve your dream smile.<br>
 
-                Once our customer, you will be leaving our dental clinic with a bright, wide smile!
+                Once our patient, you will be leaving our dental clinic with a satisfied smile!
 
                 </p>
             </div>
@@ -190,7 +196,7 @@
     <section id="partner">
         <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Our Partners</h2>
+                <h2>Technologies available</h2>
 <!--                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim ad minim veniam</p>
  -->            </div>    
 
@@ -205,8 +211,6 @@
             </div>        
         </div><!--/.container-->
     </section><!--/#partner-->
-
-
 
 <?php include "footer.php";
 ?>

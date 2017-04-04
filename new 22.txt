@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<UI>
+
+
+
+<url>https://ccems-prod-10-org2-euwest1.adobecce.com</url>
+
+<admin-username>This is admin-username</admin-username>
+
+<admin-password>This is admin-password </admin-password>
+
+
+<TC_1>
+<T3-id></T3-id>
+<T2-id><T2-id>
+<T1-id><T1-id>
+<Email-Title-id><Email-Title-id>
+<Email-Content-id><Email-Content-id>
+<File-name-id><File-name-id>
+</TC_1>
+
+<TC_2>
+<T3-id></T3-id>
+<T2-id><T2-id>
+<T1-id><T1-id>
+<Email-Title-id><Email-Title-id>
+<Email-Content-id><Email-Content-id>
+<File-name-id><File-name-id>
+</TC_2>
+
+
+
+
+
+<T3>username1@org31.com</T3>
+<T3>username2@org31.com</T3>
+
+
+<Email-Title>This is email title-1</Email-Title>
+<Email-Title>This is email title-2</Email-Title>
+
+<Email-Content>This is email content-1</Email-Content>
+<Email-Content>This is email content-2</Email-Content>
+
+
+<File-name>Add user</File-name>
+<File-name>Edit user</File-name>
+
+
+
+</UI>
