@@ -79,7 +79,7 @@
 	</div>
 	</section>
 	
-    <!--<section id="contact-page">
+    <section id="contact-page">
         <div class="container">
             <div class="center">        
                 <h2>Drop Your Message</h2>
@@ -122,7 +122,7 @@
                 </form> 
             </div>
         </div>
-    </section>-->
+    </section>
 
 <?php include "footer.php";
 ?>
