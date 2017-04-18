@@ -88,10 +88,10 @@
 
 				<div class="row clearfix">
 					<div class="col-md-4 col-sm-6">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" style="background-color: white">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object " src="assets/about-us/individual/1.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/1.png" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Dr. Ashish Verma</h4>
@@ -106,17 +106,17 @@
 									
 								</div>
 							</div><!--/.media -->
-							<p>After founding his own clinic in 2010 he brought all his experience here. Most of all he loves to see you walk out with a bright wide smile!</p>
+							<p>Dr Ashish Verma is the founder of Perfect Smile Faridabad, a journey that started in 2008. Most of all he loves to see you walk out with a bright wide smile!</p>
 							<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal1" style="background:#c52d2f none repeat scroll 0 0">More..</button>
 							</div>
 					</div><!--/.col-lg-4 -->
 					
 					
 					<div class="col-md-4 col-sm-6 col-md-offset-2">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" style="background-color: white">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object " src="assets/about-us/individual/2.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/2.png" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Dr. Dimple Verma</h4>
@@ -155,10 +155,10 @@
 
 				<div class="row clearfix">   
 					<div class="col-md-4 col-sm-6 col-md-offset-2">	
-						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms" style="background-color: white";">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object " src="assets/about-us/individual/3a.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/3.png" alt=""></a>
 								</div>
 
 								<div class="media-body">
@@ -173,18 +173,18 @@
 									
 								</div>
 							</div>
-							<p>Dr.Piyush Tandon did his graduation from College of Dental Surgery, MAHE, and Mangalore in 2001 and did his masters in prosthodontics from A.B.Shetty College, Mangalore in 2007.</p>
+							<p>Dr.PiyushTandon did his graduation from College of Dental Surgery, MAHE, and Mangalore in 2001 and did his masters in prosthodontics from A.B.Shetty College, Mangalore in 2007. He is presently working as a professor and post graduate guide in a leading college in NCR. Associated with PERFECT SMILE since its inception and has been the integral part of our team. </p>
 							<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal3" style="background:#c52d2f none repeat scroll 0 0">More..</button>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-md-offset-2">
-						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms" style="background-color: white">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object " src="assets/about-us/individual/4.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/4.png" alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Dr. Monica Tendon</h4>
+									<h4>Dr. Monica Tandon</h4>
 									<h5>Dentist</h5>
 									<ul class="tag clearfix">
 										<li class="btn"><a href="#">MDS</a></li>
@@ -201,12 +201,30 @@
 					</div>
 				</div>	<!--/.row-->
 
+				<div class="row team-bar">
+					<div class="first-one-arrow hidden-xs">
+						<hr>
+					</div>
+					<div class="first-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="second-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+					<div class="third-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-up"></i>
+					</div>
+					<div class="fourth-arrow hidden-xs">
+						<hr> <i class="fa fa-angle-down"></i>
+					</div>
+				</div> <!--skill_border-->       
+
 				<div class="row clearfix">
 					<div class="col-md-4 col-sm-6">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" style="background-color: white">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object " src="assets/about-us/individual/5.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/5.png" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Dr. Ashish Gupta</h4>
@@ -227,10 +245,10 @@
 					
 					
 					<div class="col-md-4 col-sm-6 col-md-offset-2">	
-						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+						<div class="single-profile-top wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" style="background-color: white">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object " src="assets/about-us/individual/6.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/6.png" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Dr. Akshara Singh</h4>
@@ -269,10 +287,10 @@
 
 				<div class="row clearfix">   
 					<div class="col-md-4 col-sm-6 col-md-offset-2">	
-						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms" style="background-color: white">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object " src="assets/about-us/individual/7.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/7.png" alt=""></a>
 								</div>
 
 								<div class="media-body">
@@ -291,10 +309,10 @@ He is a  competent dental professionals with proven clinical & diagnostic abilit
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-md-offset-2">
-						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms">
+						<div class="single-profile-bottom wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="600ms" style="background-color: white">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object " src="assets/about-us/individual/8.jpg" alt=""></a>
+									<a href="#"><img class="media-object " src="assets/about-us/individual/8.png" alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Dr. Ankit Jain</h4>
@@ -325,10 +343,12 @@ He is a  competent dental professionals with proven clinical & diagnostic abilit
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Ashish Verma</h4>
+        <h4 class="modal-title" id="myModalLabel" style="text-align: center;">Ashish Verma</h4>
       </div>
       <div class="modal-body">
-        Dr Ashish Gupta BDS, MDS (Orthodontics), graduated in dentistry in 2003 and completed his specialization in orthodontics in 2007. He is a Braces specialist and has a vast experience in treating all types of orthodontic cases.  As a professor in a leading dental institute, he has guided many post graduate students and has many scientific publications in national and international journals to his credit. He specializes in all the latest advancements in braces including clear aligners, ceramic braces, functional appliances etc.
+        Dr Ashish Verma is the founder of Perfect Smile Faridabad, a journey that started in 2008. A graduate from BRS Dental College, Panchkula, he did his masters from prestigious DAV Dental College, Yamunanagar in Periodontology in the 2006. Since then, he has worked in various dental colleges in NCR, apart from being associated with Delhi Government as a Senior Resident in reputed UCMS & GTB Hospital. Dr Ashish specializes in Single Sitting Root Canal Treatments, LASER Dentistry and Implants. Apart from being a known academician and Post Graduate guide with a leading college in Delhi-NCR, he has been invited as Chairperson for various National Conferences. 
+		As an accomplished clinician, he aims at providing less invasive and more effective, efficient, and comfortable dental care to his patients by utilizing innovative technology.  
+
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
@@ -343,7 +363,7 @@ He is a  competent dental professionals with proven clinical & diagnostic abilit
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Dimple Verma</h4>
+        <h4 class="modal-title" id="myModalLabel" style="text-align: center;">Dimple Verma</h4>
       </div>
       <div class="modal-body">
         Dr. Dimple Grover completed her M.D.S. in Oral and Maxillofacial Surgery from renowned DAV Dental College, Yamunanagar in 2007. Her Special interests include Facial Trauma, Oral Cancer Diagnosis and Complex Tooth Extractions. A lady with magical hands, once you are under the care of her you can leave all your apprehensions about pain and discomfort. Worked at a renowned dental college in Delhi-NCR as Associate Professor, she has been always popular amongst students for her kind and loving nature.
@@ -363,7 +383,7 @@ Dr. Dimple keeps abreast with latest research in Oral and Maxillofacial Surgery 
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Dr. Piyush Tandon</h4>
+        <h4 class="modal-title" id="myModalLabel" style="text-align: center;">Dr. Piyush Tandon</h4>
       </div>
       <div class="modal-body">
         Dr.PiyushTandon did his graduation from College of Dental Surgery, MAHE, and Mangalore in 2001 and did his masters in prosthodontics from A.B.Shetty College, Mangalore in 2007. He is presently working as a professor and post graduate guide in a leading college in NCR. Associated with PERFECT SMILE since its inception and has been the integral part of our team. Being a prosthodontist his core interet is in complete dentures, cast partial dentures, and implant supported overdentures.
@@ -384,7 +404,7 @@ Dr. Dimple keeps abreast with latest research in Oral and Maxillofacial Surgery 
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Dr. Monica Tandan</h4>
+        <h4 class="modal-title" id="myModalLabel" style="text-align: center;">Dr. Monica Tandan</h4>
       </div>
       <div class="modal-body">
 	  Dr Monika Tandan has done her BDS from Bangalore Institute of Dental Sciences, Bangalore in 2004. She completed her MDS in Conservative Dentistry and Endodontics from A B Shetty  Memorial Institute of Dental Sciences, Mangalore in 2008. She is an accomplished academician with various national and international publications to her credit. She is a life member of Indian Endodontic Society. She has an immense experience in the field of cosmetic dentistry, esthetic build ups, single sitting root canals, complicated root canal cases, retreatment cases and post endodontic restorations. She is a renowned speaker and has conducted various courses in her specialization.
@@ -403,7 +423,7 @@ Dr. Dimple keeps abreast with latest research in Oral and Maxillofacial Surgery 
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Dr. Ashish Gupta</h4>
+        <h4 class="modal-title" id="myModalLabel" style="text-align: center;">Dr. Ashish Gupta</h4>
       </div>
       <div class="modal-body">
        Dr Ashish Gupta BDS, MDS (Orthodontics), graduated in dentistry in 2003 and completed his specialization in orthodontics in 2007. He is a Braces specialist and has a vast experience in treating all types of orthodontic cases.  As a professor in a leading dental institute, he has guided many post graduate students and has many scientific publications in national and international journals to his credit. He specializes in all the latest advancements in braces including clear aligners, ceramic braces, functional appliances etc.
@@ -421,7 +441,7 @@ Dr. Dimple keeps abreast with latest research in Oral and Maxillofacial Surgery 
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Dr. Akshara Singh</h4>
+        <h4 class="modal-title" id="myModalLabel" style="text-align: center;">Dr. Akshara Singh</h4>
       </div>
       <div class="modal-body">
         Dr. Akshara Singh is a specialized pediatric dental surgeon. She graduated with a Bachelor of Dental Surgery in 2011 with an additional three years training in pediatric dentistry. She completed her Master of Dental Surgery in 2015. Currently she is working in a leading dental college of NCR region and has been training BDS and MDS students. She has various paper publications to her credit. She has been awarded Gold medal for her academics in her graduation and best scientific paper presentation during her post-graduation. As a child specialist, she is an asset to our team since 2015.
@@ -440,7 +460,7 @@ Dr. Dimple keeps abreast with latest research in Oral and Maxillofacial Surgery 
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Dr. Yatin Bajaj</h4>
+        <h4 class="modal-title" id="myModalLabel" style="text-align: center;">Dr. Yatin Bajaj</h4>
       </div>
       <div class="modal-body">
         Dr. Yatin Bajaj Completed B.D.S (2011) and M.D.S  from  Manav Rachna Dental College Faridabad in  2016 . He specializes in Dentofacial Orthopedics.
@@ -461,7 +481,7 @@ He is a  competent dental professionals with proven clinical & diagnostic abilit
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="myModalLabel">Dr. Ankit Jain</h4>
+        <h4 class="modal-title" id="myModalLabel" style="text-align: center;">Dr. Ankit Jain</h4>
       </div>
       <div class="modal-body">
         Dr. Ankit Jain, a Silver Medalist of his batch, completed his B.D.S. from prestigious Manav Rachna Dental College in 2013. His special interests include ‘Retreatment, Aesthetic Dentistry, BOTOX & Fillers’. He is very soft spoken, confident and passionate about dentistry. An immediate choice for PERFECT SMILE team, his warm friendly nature can settle even the most nervous patients. He ensures you receive the highest standards of dental care in a friendly and welcoming environment. He is dedicated to the newest advancements and keep up-to-date with the latest healthcare technologies

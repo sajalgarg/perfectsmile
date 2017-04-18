@@ -119,7 +119,9 @@
                         </div>
                         <div class="media-body">
                             <h2>Have a question ?</h2>
-                            <p>Feel free to contact us at 0129-4026267</p>
+                            <p>Feel free to contact us at 0129-4026267 or email at drashish_verma@rediffmail.com</p>
+                            <h2>Clinic Address:</h2>
+                            Main Huda Market ,Sector 21-C ,Faridabad ,Haryana 
                         </div>
                     </div>
                 </div>

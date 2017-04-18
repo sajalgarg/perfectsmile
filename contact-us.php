@@ -62,16 +62,10 @@
 
 	<section id="address">
 	
-	 <address class="center">
-                                    <h2>Clinic Address</h2>
-                                    <p>Main Huda Market ,Sector 21-C ,<br>Faridabad ,Haryana 
-                                    </p>
-                                    <p>Phone:9990096267 </p>
-                                    <p>Email:drashish_verma@rediffmail.com</p>
-                                </address>
+
 	<div class="get-started center wow fadeInDown animated container" style="visibility: visible; animation-name: fadeInDown;">
                 <h2>SCHEDULE AN APPOINTMENT</h2>
-                <p class="lead"><a href="https://www.practo.com/faridabad/doctor/ashish-verma-1-dentist-1#info"> Click Here</a></p>
+                <p class="lead"><a href="https://www.practo.com/faridabad/clinic/perfect-smile-sector-21-c?specialization="> Click Here</a></p>
                 OR
 				
 				<div class="request">
@@ -81,7 +75,7 @@
 	</div>
 	</section>
 	
-    <section id="contact-page">
+<!--     <section id="contact-page">
         <div class="container">
             <div class="center">        
                 <h2>Drop Your Message</h2>
@@ -125,7 +119,7 @@
             </div>
         </div>
     </section>
-
+ -->
 <?php include "footer.php";
 ?>
     <script src="js/jquery.js"></script>
