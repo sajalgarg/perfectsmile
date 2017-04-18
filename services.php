@@ -211,6 +211,21 @@ The practice has five different lasers on offer. Laser is a more comfortable and
 
                                      <div class="tab-pane fade" id="tab5">
                                         <h2>Kids Dentistry</h2>
+										<p>TREATMENT OFFERED TO KIDS:
+
+PREVENTIVE PROCEDURES: 
+Dental check-up, parental counseling, diet counseling, preventive fillings, pit and fissure sealants, fluoride application.
+
+RESTORATIVE:
+Dental fillings, laser fillings, painless root canal treatment for children, esthetic management of front teeth (carious or traumatized). Anterior and posterior crowns for kids.
+
+SPECIAL CARE DENTISTRY: 
+Specialized dental services to children with Down’s syndrome, autism and other congenital conditions.
+
+MANAGEMENT OF ACUTE DENTAL EMERGENCIES:
+Treatment of dental trauma, including management of knocked-out (avulsed) tooth.
+
+</p>
                                      </div>
 
                                      <div class="tab-pane fade" id="tab6">
@@ -234,6 +249,13 @@ Your wisdom tooth removal treatment may either be "simple" or "surgical". Simple
 
                                      <div class="tab-pane fade" id="tab7">
                                         <h2>Orthodontics</h2>
+										<p>Dental braces (also known as orthodontic braces, or braces) are devices used in orthodontics that align and straighten teeth and help to position them with regard to a person's bite, while also working to improve dental health. They are often used to correct underbites, as well as malocclusions, overbites, cross bites, open bites, deep bites, crooked teeth, and various other flaws of the teeth and jaw. 
+
+Lingual braces are custom made fixed braces bonded to the back of the teeth making them invisible to other people. In lingual braces the brackets are cemented onto the backside of the teeth making them invisible while in standard braces the brackets are cemented onto the front side of the teeth. Hence, lingual braces are a cosmetic alternative to those who do not wish the braces to be visible.
+
+Aligners
+Aligners are removable medical grade plastic appliances which patient wears instead of brackets and wires to correct malocclusion. Dental aligners are a modern alternative to braces, for teeth that are in need of straightening. 
+A Clear change to the concept of Cosmetic and Adult Orthodontic treatment without using conventional methods of wires and brackets. Adults wouldn't have asked for a better choice to correct their malocclusion without social inhibitions. </p>
                                      </div>
 									 
 

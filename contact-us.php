@@ -70,10 +70,12 @@
                                     <p>Email:drashish_verma@rediffmail.com</p>
                                 </address>
 	<div class="get-started center wow fadeInDown animated container" style="visibility: visible; animation-name: fadeInDown;">
-                <h2>Practo link</h2>
-                <p class="lead">..................................................................................... <br> .....................................................................</p>
-                <div class="request">
-                    <h4><a href="#">Link</a></h4>
+                <h2>SCHEDULE AN APPOINTMENT</h2>
+                <p class="lead"><a href="https://www.practo.com/faridabad/doctor/ashish-verma-1-dentist-1#info"> Click Here</a></p>
+                OR
+				
+				<div class="request">
+                    <h4><a href="#">Call us at 0129-4026267</a></h4>
                 </div>
     
 	</div>

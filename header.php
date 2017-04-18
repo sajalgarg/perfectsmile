@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-xs-4">
-                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  9990096267</p></div>
+                        <div class="top-number"><p><i class="fa fa-phone-square"></i>0129-4026267</p></div>
                     </div>
                     <div class="col-sm-6 col-xs-8">
                        <div class="social top-number" style="color:white;"><p>
