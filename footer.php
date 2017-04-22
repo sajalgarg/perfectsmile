@@ -24,7 +24,7 @@
                             <!-- </div> -->
                             <div class=" row">
                               <div class="col-md-3">
-                              <img style="width:100%;margin-top:50px" class="img-circle" src="images/t1.jpg">
+                              <img style="width:100%;margin-top:50px" class="img-circle" src="images/t1.JPG">
                               </div>
                               <div class="col-md-9">
 							  <i class="fa fa-quote-left fa-2x"></i>
@@ -50,7 +50,7 @@
                             <!-- </div> -->
                             <div class=" row">
                               <div class="col-md-3">
-                              <img style="width:100%;margin-top:50px" class="img-circle" src="images/t2.jpg">
+                              <img style="width:100%;margin-top:50px" class="img-circle" src="images/t2.JPG">
                               </div>
                               <div class="col-md-9">
 					  <i class="fa fa-quote-left fa-2x"></i>

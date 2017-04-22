@@ -48,183 +48,206 @@
                 <div class="portfolio-items">
                     <div class="portfolio-item social col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
-                            <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/social/recent/psf-social7.jpg" alt="">
-                            <div class="overlay">
+						<a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
+                            <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;border:2px " src="assets/social/recent/psf-social7.jpg" alt=""></a>
+                            <!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
                                     <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>        
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item clinic apps col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
-                            <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/clinic/recent/psf-clinic10.jpg" alt="">
-                            <div class="overlay">
+                            <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
+							<img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/clinic/recent/psf-clinic10.jpg" alt="">
+                            </a>
+							<!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/clinic/full/psf-clinic10.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>           
                     </div><!--/.portfolio-item-->
           
                     <div class="portfolio-item clinic col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
+						<a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
                             <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/clinic/recent/psf-clinic15.jpg" alt="">
-                            <div class="overlay">
+                            </a>
+							<!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/clinic/full/psf-clinic15.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>      
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item social col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
-                            <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/social/recent/psf-social11.jpg" alt="">
-                            <div class="overlay">
+                             <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
+							<img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/social/recent/psf-social11.jpg" alt="">
+                            </a>
+							<!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/social/full/psf-social11.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>         
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item cases col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
+  <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">						
                             <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/cases/recent/psf-clinic17.jpg" alt="">
-                            <div class="overlay">
+                        </a>
+						<!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/cases/full/psf-clinic17.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>          
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item clinic col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
+						<a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
                             <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/clinic/recent/psf-clinic19.jpg" alt="">
-                            <div class="overlay">
+</a>                           
+						   <!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/clinic/full/psf-clinic19.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>          
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item clinic col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
+						     <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
                             <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/clinic/recent/psf-clinic2.jpg" alt="">
-                            <div class="overlay">
+                            </a>
+							<!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/clinic/full/psf-clinic2.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item cases col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
+						    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
                             <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/cases/recent/psf-clinic6.jpg" alt="">
-                            <div class="overlay">
+							</a>
+                            <!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/cases/full/psf-clinic6.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>          
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item social col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
+						    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
                             <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/social/recent/psf-social1.jpg" alt="">
-                            <div class="overlay">
+                            </a><!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/social/full/psf-social1.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>        
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item clinic apps col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
+						    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
                             <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/clinic/recent/psf-clinic3.jpg" alt="">
-                            <div class="overlay">
+							</a>
+                            <!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/clinic/full/psf-clinic3.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>           
                     </div><!--/.portfolio-item-->
           
                     <div class="portfolio-item clinic col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
+						    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
                             <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/clinic/recent/psf-clinic4.jpg" alt="">
-                            <div class="overlay">
+                            </a><!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/clinic/full/psf-clinic4.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>      
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item social col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
-                            <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/social/recent/psf-social6.jpg" alt="">
-                            <div class="overlay">
+                                <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
+							<img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/social/recent/psf-social6.jpg" alt="">
+                            </a>
+							<!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/social/full/psf-social6.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>         
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item cases col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
-                            <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/cases/recent/psf-clinic7.jpg" alt="">
-                            <div class="overlay">
+                             <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
+							 <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/cases/recent/psf-clinic7.jpg" alt="">
+                            </a><!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/cases/full/psf-clinic7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>          
                     </div><!--/.portfolio-item-->
 
                     <div class="portfolio-item clinic col-xs-12 col-sm-4 col-md-3">
                         <div class="recent-work-wrap">
+						  <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto">
                             <img class="img-responsive responsive-image-portfolio" style="height:220px; overflow: hidden;" src="assets/clinic/recent/psf-clinic9.jpg" alt="">
-                            <div class="overlay">
+                            </a><!--<div class="overlay">
                                 <div class="recent-work-inner">
                                     <h3><a href="#">Title</a></h3>
                                     <p>Description</p>
-                                    <a class="preview" href="assets/clinic/full/psf-clinic9.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
+                                    <a class="preview" href="assets/social/full/psf-social7.jpg" rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
                                 </div> 
-                            </div>
+                            </div>-->
                         </div>          
                     </div><!--/.portfolio-item-->
                 </div>
